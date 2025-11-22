@@ -1,1 +1,0 @@
-# chrislaymanfinearts.github.io

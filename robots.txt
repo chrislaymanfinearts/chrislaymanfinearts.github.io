@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.chrislaymanfinearts.com/sitemap.xml
+
+# Crawl delay (optional - 1 second)
+Crawl-delay: 1
