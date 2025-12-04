@@ -3,6 +3,6 @@
 4:I[8937,[],"MetadataBoundary"]
 5:"$Sreact.suspense"
 7:I[556,[],"IconMark"]
-0:{"buildId":"VUTzIhGvJVXlWt06hONPx","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"aNGS7oOyqza0FOKDzhTm3","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"History of the Artist Chris Layman"}],["$","meta","1",{"name":"description","content":"Explore the stories of Chris Layman's family history through art."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?8bfef89bfb8bcc77","type":"image/x-icon","sizes":"48x48"}],["$","link","4",{"rel":"icon","href":"/icon.png?98609d19ff0b8fcd","type":"image/png","sizes":"96x96"}],["$","$L7","5",{}]]
